@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:idAtractivosTuristicos;datatype:int,name:Ciudad;datatype:string,name:Provincia;datatype:string,name:Region;datatype:string,name:TipoAtractivo;datatype:string,name:idPadre;datatype:string,name:Descripcion;datatype:string,name:Superficie;datatype:string,name:Extencion;datatype:string,name:Altitud;datatype:string,name:Fundacion;datatype:string,name:Coordenadas;datatype:string,name:Nombre;datatype:string,name:idCiudades;datatype:int" />
+	<infoitem key="UD_atractivosTuristicos" value="name:idAtractivosTuristicos;datatype:int,name:Ciudad;datatype:string,name:Provincia;datatype:string,name:Region;datatype:string,name:TipoAtractivo;datatype:string,name:idPadre;datatype:string,name:Descripcion;datatype:string,name:Superficie;datatype:string,name:Extencion;datatype:string,name:Altitud;datatype:string,name:Fundacion;datatype:string,name:Coordenadas;datatype:string,name:Nombre;datatype:string,name:idCiudades;datatype:int" />
+	<infoitem key="UD_transporte" value="name:idTrasnporte;datatype:int,name:TipoTransporte;datatype:string,name:idPadre;datatype:int,name:Descripcion;datatype:string" />
+	<infoitem key="UD_ciudades" value="name:idCiudad;datatype:int,name:Nombre;datatype:string,name:Provincia;datatype:string,name:Extencion;datatype:string,name:Poblacion;datatype:string" />
+</info>
